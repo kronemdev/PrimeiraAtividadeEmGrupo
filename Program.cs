@@ -65,5 +65,6 @@ Console.WriteLine("Programa encerrado");
 Fábio Gomes
 José Henrique
 Lucas Santos
+Nicolas Kronemberger
 Washington William 
 */
